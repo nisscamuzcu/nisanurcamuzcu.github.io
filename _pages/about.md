@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Electrical and Computer Engineering at Rochester Institute of Technology, advised by Prof. Alireza Vahid. My research focuses on wireless localization, resilient positioning, navigation, and timing, low-Earth-orbit satellite navigation, non-terrestrial networks, and intelligent multi-source navigation systems.
+<!--I am a Ph.D. student in Electrical and Computer Engineering at Rochester Institute of Technology, advised by Prof. Alireza Vahid. My research focuses on wireless localization, resilient positioning, navigation, and timing, low-Earth-orbit satellite navigation, non-terrestrial networks, and intelligent multi-source navigation systems.-->
+
+Hi, I am Nisa! I am a third year Ph.D. student in Electrical and Computer Engineering at [Rochester Institute of Technology](https://www.rit.edu/study/electrical-and-computer-engineering-phd), advised by Prof. Alireza Vahid. I received my M.Sc. degree in Telecommunication Engineering from [Politecnico di Milano](https://www.deib.polimi.it/telecommunications) in 2024 and my B.Sc. degree in Electrical and Electronics Engineering from [Bilkent University](https://ee.bilkent.edu.tr/en/) in 2022. My research interests include wireless localization, resilient positioning, navigation, and timing, low-Earth-orbit satellite navigation, non-terrestrial networks, and multi-source navigation systems.
+
+My research interests are broadly in wireless communications and localization. My current research investigates passive LEO-aided navigation using Starlink beacon signals, GNSS/LEO/IMU sensor fusion, and adaptive trust orchestration under degraded navigation conditions.
 
 Here's my [CV](/files/Nisanur_Camuzcu_CV.pdf).
 
